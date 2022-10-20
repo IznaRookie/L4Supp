@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L4Supp</string>
+    <string name="sellers">Поставщики</string>
+    <string name="favourites">Избранное</string>
+    <string name="info">Справка</string>
+    <string name="empty_field_error">Поле не может быть пустым</string>
+    <string name="profile_seller">Профиль</string>
+    <string name="no_name">Название не задано</string>
+    <string name="no_description">Описание отсутствует</string>
+</resources>

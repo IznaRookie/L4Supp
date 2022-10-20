@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_profile"
+        android:title="@string/profile_seller"
+        android:icon="@drawable/ic_baseline_list_alt_24" />
+    <item android:id="@+id/action_info"
+        android:title="@string/info"
+        android:icon="@drawable/ic_baseline_info_24" />
+</menu>
